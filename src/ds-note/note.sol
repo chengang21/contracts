@@ -43,7 +43,7 @@ contract DSNote {
 }
 
 
-contract DSNoteTest is DSTest, DSNote {
+contract DSNoteTest is DSNote {
     function test_0() public { this.foo(); }
     function test_1() public { this.foo(1); }
     function test_2() public { this.foo(1, 2); }
