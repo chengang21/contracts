@@ -13,6 +13,9 @@ import (
 	"time"
 )
 
+// go get github.com/rivo/tview
+// go run 
+
 var (
 	selectedCryptoCurrency = "Null"
 	selectedCryptoCurrencyIndex int
