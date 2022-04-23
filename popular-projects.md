@@ -1,11 +1,12 @@
 GitHub上 Solidity的 18 个资源
 
 1. bkrem/awesome-solidity
-
 精选的 Solidity 资源、库、工具等的列表。
+
 2. fravoll/solidity-patterns
 
 智能合约编程语言Solidity的模式和最佳实践汇编。
+
 3. ethereum/solidity
 
 Solidity，智能合约编程语言，以太坊官方回购。
